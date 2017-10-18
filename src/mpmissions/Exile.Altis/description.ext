@@ -76,10 +76,9 @@ class CfgRemoteExec
         mode = 1;
         jip = 0;
 
-        class ExileServer_system_network_dispatchIncomingMessage
-        {
-            allowedTargets = 2;
-        };
+        class ExileServer_system_network_dispatchIncomingMessage { allowedTargets = 2; };
+        // AdminToolkit
+        class AdminToolkit_network_receiveRequest { allowedTargets = 2; };
     };
 
     class Commands

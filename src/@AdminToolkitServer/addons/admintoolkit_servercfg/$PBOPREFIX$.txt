@@ -1,0 +1,5 @@
+///<'admintoolkit_servercfg.pbo' properties via Mikero's dos tools, dll version 6.48>///
+prefix=admintoolkit_servercfg
+//Pbo Type is: Arma Addon
+//Sha: '7A82A8DC374F6288CE47967830D48328103360A7'
+//////</properties>//////
