@@ -1,0 +1,5 @@
+///<'Exile.Altis.pbo' properties via Mikero's dos tools, dll version 6.48>///
+prefix=Exile.Altis
+//Pbo Type is: Arma Mission Addon
+//Sha: '240A0AFC251147F5C305F330F23403F9B677EE7D'
+//////</properties>//////

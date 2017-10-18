@@ -1,0 +1,5 @@
+///<'Exile.Namalsk.pbo' properties via Mikero's dos tools, dll version 6.48>///
+prefix=Exile.Namalsk
+//Pbo Type is: Arma Mission Addon
+//Sha: 'BB887AA85BC9A8DA17FCD0964B402AFF9EBFA1ED'
+//////</properties>//////

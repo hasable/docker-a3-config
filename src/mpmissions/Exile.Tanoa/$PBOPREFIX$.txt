@@ -1,0 +1,5 @@
+///<'Exile.Tanoa.pbo' properties via Mikero's dos tools, dll version 6.48>///
+prefix=Exile.Tanoa
+//Pbo Type is: Arma Mission Addon
+//Sha: '9EC72F52522D2CC44518B51F22AD5228A0815973'
+//////</properties>//////

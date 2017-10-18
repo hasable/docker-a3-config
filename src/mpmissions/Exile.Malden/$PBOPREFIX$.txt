@@ -1,0 +1,5 @@
+///<'Exile.Malden.pbo' properties via Mikero's dos tools, dll version 6.48>///
+prefix=Exile.Malden
+//Pbo Type is: Arma Mission Addon
+//Sha: 'F93E6CD9B8C31C739A3BD31E1C9AA5D655DAD054'
+//////</properties>//////
